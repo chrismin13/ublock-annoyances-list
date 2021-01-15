@@ -60,3 +60,7 @@ www.gofuckingwork.com###credit
 ! 2021-01-15 https://www.youtube.com
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 
+! 2021-01-15 https://m.youtube.com
+m.youtube.com##.rich-grid-renderer-contents
+m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
+
