@@ -28,32 +28,6 @@ www.gofuckingwork.com###footer-credit
 ||www.gofuckingwork.com/img/night-mode-light.png$image
 ||www.gofuckingwork.com/lang-en.png$image
 
-! 2020-12-10 https://www.thefader.com
-www.thefader.com##.gutter_left.header_wrap
-www.thefader.com##.full-site-alert
-www.thefader.com##.aside-panel
-www.thefader.com###article-103845 > .gutter_left.gutter_top.header_block
-www.thefader.com##.li_socials
-www.thefader.com##.ui_control_element.links_wrap > .links
-www.thefader.com###video_nav_link
-www.thefader.com##li.culture:nth-of-type(4)
-www.thefader.com##.verticals_links
-www.thefader.com###article-103845 > .triple_gutter_right.gutter_left.credits
-||www.thefader.com/assets/logo-snapchat-5f1563935ac089d0cf1773f642ddbfb6cdb16e8c4ac14fec95a3c11b6f963389.svg$image
-||www.thefader.com/assets/logo-snapchat-5f1563935ac089d0cf1773f642ddbfb6cdb16e8c4ac14fec95a3c11b6f963389.svg$image
-||www.thefader.com/assets/logo-snapchat-5f1563935ac089d0cf1773f642ddbfb6cdb16e8c4ac14fec95a3c11b6f963389.svg$image
-||www.thefader.com/assets/logo_F2-9aab4500dd320f373a354478ddbdb3bed7a5efb447e55af4bbc8d3797a6129c3.png$image
-www.thefader.com##.verticals_wrap
-www.thefader.com##.nav_inner_wrap
-www.thefader.com##.locked_nav.main_nav
-www.thefader.com##.gutter_left.new_socials_footer
-www.thefader.com##.center_align.triple_gutter_left.triple_gutter_right.text.paragraph.content_block
-www.thefader.com##div > div > div > div > .vertical_music.article.main > .two_thirds.simple
-www.thefader.com##.main_content > .gutter_left.gutter_right
-www.thefader.com##.main_content_top > div > div > div
-www.thefader.com###article-103845 > .gutter_top.triple_gutter_right.triple_gutter_left.meta_info_block
-www.thefader.com###article-103845 > .gutter_btm.triple_gutter_left.footer_socials_wrap
-
 ! 2020-12-10 https://www.gofuckingwork.com
 www.gofuckingwork.com###credit
 
@@ -63,4 +37,11 @@ www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-render
 ! 2021-01-15 https://m.youtube.com
 m.youtube.com##.rich-grid-renderer-contents
 m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
+
+! 2021-01-20 https://www.youtube.com
+www.youtube.com##.ytd-compact-autoplay-renderer.style-scope > .ytd-compact-video-renderer.style-scope
+www.youtube.com###content > .yt-related-chip-cloud-renderer.style-scope
+www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope > .ytd-item-section-renderer.style-scope
+
+
 
